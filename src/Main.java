@@ -4,9 +4,10 @@ public class Main {
         Integer idadePessoa = 20;
         String nomePessoa = "kevin";
 
-        if (idadePessoa > 20) ;
-        System.out.println("é maior que 20");
+        if (idadePessoa > 20) {
+           System.out.println("é maior que 20");
     }else{
+            System.out.printl("Não é maior")
     }
   }
 
